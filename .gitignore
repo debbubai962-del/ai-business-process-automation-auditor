@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# App runtime
+exports/
+tmp/
+*.log
+
+# OS/editor
+Thumbs.db.streamlit/secrets.toml

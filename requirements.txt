@@ -1,0 +1,11 @@
+streamlit>=1.64
+pandas>=3.0
+numpy
+plotly
+openpyxl
+xlrd
+pydantic>=2
+python-dotenv
+openai>=1.0
+scipy
+pytest

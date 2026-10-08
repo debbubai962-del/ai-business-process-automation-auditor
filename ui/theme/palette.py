@@ -1,0 +1,16 @@
+"""Design tokens. Every color in the app comes from here."""
+
+NAVY = "#0B1B3F"
+INK = "#1E2A4A"
+MUTED = "#5B6785"
+BG = "#F4F6FB"
+SURFACE = "#FFFFFF"
+BORDER = "#E3E8F2"
+
+INDIGO = "#4F46E5"
+BLUE = "#2563EB"
+TEAL = "#0D9488"
+CYAN = "#06B6D4"
+EMERALD = "#059669"
+AMBER = "#D97706"
+CORAL = "#DC2626"
